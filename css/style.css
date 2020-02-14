@@ -5,3 +5,7 @@ body {
 .carousel-item {
     height: 100vh;
 }
+
+.no-margin-bottom {
+    margin-bottom: 0 !important;
+}
