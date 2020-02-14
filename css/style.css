@@ -9,3 +9,50 @@ body {
 .no-margin-bottom {
     margin-bottom: 0 !important;
 }
+
+.text-primary {
+    color: #D50032 !important;
+}
+
+.portfolio-hover {
+    background: #001E62 !important;
+}
+
+.btn-primary {
+    background-color: #00B5E2 !important;
+    border-color: #00B5E2 !important;
+}
+
+.btn-primary:hover {
+    background-color: #00AEC7 !important;
+    border-color: #00AEC7 !important;
+}
+
+.btn-primary:focus {
+    background-color: #00AEC7 !important;
+    border-color: #00AEC7 !important;
+}
+
+.timeline-image {
+    background-color: #D50032 !important;
+}
+
+ul.social-buttons>li.list-inline-item>a:hover {
+    background-color: #00B5E2 !important;
+}
+
+a.nav-link:hover {
+    color: #00B5E2 !important;
+}
+
+a.nav-link.active {
+    color: #00B5E2 !important;
+}
+
+a.bottom-links {
+    color: #212529 !important;
+}
+
+a.navbar-brand {
+    color: #00B5E2 !important;
+}
