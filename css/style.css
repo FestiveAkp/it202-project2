@@ -2,6 +2,10 @@ body {
     padding: 0;
 }
 
+::selection {
+    background: #00B5E2;
+}
+
 .carousel-item {
     height: 100vh;
 }
@@ -16,6 +20,10 @@ body {
 
 .portfolio-hover {
     background: #001E62 !important;
+}
+
+button.navbar-toggler {
+    background-color: #00B5E2 !important;
 }
 
 .btn-primary {
